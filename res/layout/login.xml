@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Switch
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/remember"
+            android:id="@+id/remember"
+            android:onClick="remember"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp" android:checked="false"/>
+
+    <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:password="true"
+            android:text="sahri35"
+            android:id="@+id/password" android:layout_alignLeft="@+id/remember" android:layout_above="@+id/remember"
+            android:layout_marginRight="20dp" android:layout_marginBottom="10dp"/>
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/password"
+            android:id="@+id/password_label" android:layout_alignLeft="@+id/remember" android:layout_above="@+id/password"
+            android:layout_marginRight="20dp"/>
+    <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="tommy25"
+            android:id="@+id/username" android:layout_alignLeft="@+id/remember" android:layout_above="@+id/password_label"
+            android:layout_marginRight="20dp">
+        <requestFocus/>
+    </EditText>
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            android:id="@+id/username_label" android:layout_alignLeft="@+id/remember" android:layout_above="@+id/username"
+            android:layout_marginRight="20dp"/>
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pin"
+            android:id="@+id/pin_label" android:layout_alignLeft="@+id/remember" android:layout_below="@+id/remember"
+            android:layout_marginTop="10dp" android:layout_marginRight="20dp"
+            android:visibility="invisible"
+            android:layout_marginLeft="20dp"/>
+    <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:password="true"
+            android:inputType="number"
+            android:visibility="invisible"
+            android:id="@+id/pin" android:layout_alignLeft="@+id/remember" android:layout_below="@+id/pin_label"
+            android:layout_marginRight="20dp"/>
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login"
+            android:id="@+id/login" android:layout_alignLeft="@+id/remember" android:layout_below="@+id/pin"
+            android:onClick="login"
+
+            android:layout_marginTop="20dp"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TabHost
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" android:id="@+id/tabHost">
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+            <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+            </TabWidget>
+            <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+                <RelativeLayout
+                        android:id="@+id/securities"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+                    <TextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="New Text"
+                            android:id="@+id/textView"
+                            android:layout_gravity="center"/>
+                    <ListView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:id="@+id/listView_securities" android:layout_gravity="top"
+                            android:layout_alignLeft="@+id/textView" android:layout_below="@+id/textView"
+                            android:layout_alignParentBottom="true"/>
+                </RelativeLayout>
+                <LinearLayout
+                        android:id="@+id/depositories"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+                    <uk.co.senab.actionbarpulltorefresh.library.PullToRefreshLayout
+                            xmlns:android="http://schemas.android.com/apk/res/android"
+                            android:id="@+id/ptr_layout_depositories"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+                        <ListView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/listView_depositories" android:layout_gravity="top"/>
+                    </uk.co.senab.actionbarpulltorefresh.library.PullToRefreshLayout>
+                </LinearLayout>
+                <LinearLayout
+                        android:id="@+id/history"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+                    <uk.co.senab.actionbarpulltorefresh.library.PullToRefreshLayout
+                            xmlns:android="http://schemas.android.com/apk/res/android"
+                            android:id="@+id/ptr_layout_history"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+                        <ListView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/listView_history" android:layout_gravity="top"/>
+                    </uk.co.senab.actionbarpulltorefresh.library.PullToRefreshLayout>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+</LinearLayout>

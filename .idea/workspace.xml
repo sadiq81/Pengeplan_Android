@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-16" />
+        <option name="theme" value="Theme.DeviceDefault" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-16" />
+        <option name="theme" value="Theme.DeviceDefault" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="012ad4da-c990-44e9-a65c-398e7a6c5060" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/gtrgtr.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-ar/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-cs/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-de/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-es/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-fi/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-fr/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-he/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-it/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-iw/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-ja/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-ko/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-lt/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-nl/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-pl/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-pt-rBR/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-pt/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-ro/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-ru/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-sk/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-sv/pull_refresh_strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res/values-zh/pull_refresh_strings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Login.java" afterPath="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Login.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/overview.xml" afterPath="$PROJECT_DIR$/res/layout/overview.xml" />
+    </list>
+    <ignored path="Pengeplan_Android.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="Pengeplan_Android.iml" />
+    <ignored mask="*.iml" />
+    <file path="$PROJECT_DIR$/../Pengeplan-Android/.idea/workspace.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394731643386" ignored="false" />
+    <file path="$PROJECT_DIR$/../Pengeplan-Android/Pengeplan-Android/gen/dk/eazyit/pengeplan/android/R.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394729472409" ignored="false" />
+    <file path="/fragment.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398527425184" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/res/layout/main.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394732245307" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/res/values/strings.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394732245307" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/build.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394732245307" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/AndroidManifest.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394732245307" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/src/com/example/untitled/MyActivity.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394732245307" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1396358135445" ignored="false" />
+    <file path="$PROJECT_DIR$/Test/res/layout/main.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394732308890" ignored="false" />
+    <file path="$PROJECT_DIR$/Test/res/values/strings.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394732308890" ignored="false" />
+    <file path="/a.dummy" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394732431423" ignored="false" />
+    <file path="/PengeplanService.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395060246451" ignored="false" />
+    <file path="/pom.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395314160284" ignored="false" />
+    <file path="/Constants.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395218729667" ignored="false" />
+    <file path="$PROJECT_DIR$/actionbarcompat/gen/uk/co/senab/actionbarpulltorefresh/extras/actionbarcompat/R.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394822330847" ignored="false" />
+    <file path="$PROJECT_DIR$/actionbarsherlock/gen/uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock/Manifest.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394822337380" ignored="false" />
+    <file path="$PROJECT_DIR$/actionbarsherlock/gen/uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock/R.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394822337380" ignored="false" />
+    <file path="$PROJECT_DIR$/actionbarsherlock/gen/uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock/BuildConfig.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394822338446" ignored="false" />
+    <file path="$PROJECT_DIR$/untitled/src/com/example/untitled/MyActivity.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394822936704" ignored="false" />
+    <file path="$PROJECT_DIR$/untitled/res/values/strings.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394822936704" ignored="false" />
+    <file path="$PROJECT_DIR$/untitled/res/layout/main.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394822936704" ignored="false" />
+    <file path="/DefaultHeaderTransformer.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1396349670613" ignored="false" />
+    <file path="/styles.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1394824119726" ignored="false" />
+    <file path="/Dummy.txt" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398784663727" ignored="false" />
+    <file path="/BaseActivity.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395046432999" ignored="false" />
+    <file path="/Overview.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395319420334" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_j256_ormlite_ormlite_jdbc_4_48.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395049711858" ignored="false" />
+    <file path="/Transaction.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232958752" ignored="false" />
+    <file path="/DatabaseHelper.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395052569243" ignored="false" />
+    <file path="/DatabaseConfigUtil.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395052418471" ignored="false" />
+    <file path="/proguard.cfg" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395052806485" ignored="false" />
+    <file path="/strings.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395053072944" ignored="false" />
+    <file path="$PROJECT_DIR$/../pengeplan/mainwar/src/main/java/com/trifork/pengeplan/api/TransactionApiData.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395059702313" ignored="false" />
+    <file path="/TransactionService.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395319153566" ignored="false" />
+    <file path="/transaction_list_cell.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395065047405" ignored="false" />
+    <file path="$PROJECT_DIR$/../pengeplan/mainwar/src/main/java/com/trifork/pengeplan/services/MobileApiService.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395059702313" ignored="false" />
+    <file path="/MobileApiService.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395059647380" ignored="false" />
+    <file path="$PROJECT_DIR$/../pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/unsecure/AppWebApplication_da.utf8.properties" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395059702313" ignored="false" />
+    <file path="/overview.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1397230629267" ignored="false" />
+    <file path="/login.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1396345757219" ignored="false" />
+    <file path="/PengeplanAdapter.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1396351166832" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/gen/com/pengeplan/phonegap/BuildConfig.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395152718551" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/js/common.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232374946" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/gen/com/pengeplan/phonegap/R.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395152239008" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/gen/com/pengeplan/phonegap/Manifest.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395152239008" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/project.properties" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150875040" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/org/apache/cordova/CordovaResourceApi.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148479765" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/pom.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150882447" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148581255" ignored="false" />
+    <file path="/CordovaWebView.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148575974" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__com_google_android_android_4_1_1_4.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__xerces_xmlParserAPIs_2_6_2.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__org_khronos_opengl_api_gl1_1_android_2_1_r1.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__xpp3_xpp3_1_1_4c.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__org_json_json_20080701.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395148666116" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/depositories.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/test.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/js/jquery.flot.min.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/css/pull-no-menu.css" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/AndroidManifest.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1396357510039" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/js/depositories.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/js/index.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232374946" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/securities.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/cordova.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151351995" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/js/jquery.flot.pie.min.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/js/history.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232374946" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/js/securities.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/index.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232374946" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/transactions.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150646419" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/assets/www/history.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232374946" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/Maven__com_google_android_android_4_4.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395150891457" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/android_16.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151065297" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/libraries/android_19.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/AbstractOutputStream.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/NamedRunnable.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Dns.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/DiskLruCache.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/FaultRecoveringOutputStream.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/internal/Base64.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/RouteDatabase.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/Job.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/Failure.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/AndroidManifest.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/Request.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/Route.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/MediaType.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/ResponseSource.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/OkResponseCache.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/ConnectionPool.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/OkHttpClient.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/TunnelRequest.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/Connection.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/Address.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/HttpResponseCache.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/OkAuthenticator.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/Dispatcher.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/CordovaLib/src/com/squareup/okhttp/Response.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/workspace.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395240713952" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/compiler.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151557209" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/modules.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395152154795" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/scopes/scope_settings.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151263819" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/res/values/strings.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151351995" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/misc.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395152041324" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/vcs.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151557209" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/findbugs-idea.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151557209" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/encodings.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151557209" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/uiDesigner.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151557209" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/android/.idea/gradle.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151557209" ignored="false" />
+    <file path="/config.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151696219" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/config.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151695534" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/ios/Pengeplan Cordova/config.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395151896399" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395240713952" ignored="false" />
+    <file path="/SecuritiesArrayAdapter.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1396350299572" ignored="false" />
+    <file path="/Transactions.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232672235" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/www/js/common.js" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395231781631" ignored="false" />
+    <file path="/index.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232019488" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/www/index.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232019160" ignored="false" />
+    <file path="$USER_HOME$/Phonegap/pengeplan/platforms/ios/www/history.html" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232049716" ignored="false" />
+    <file path="/transactions.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395232619937" ignored="false" />
+    <file path="/TransactionsArrayAdapter.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395334075704" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/project.properties" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395258339660" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/pom.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395258405477" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/src/main/java/org/achartengine/chartdemo/demo/chart/CombinedTemperatureChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395258787470" ignored="false" />
+    <file path="/CombinedTemperatureChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395258744885" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/src/main/java/org/achartengine/chartdemo/demo/chart/PieChartBuilder.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395258758282" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/src/main/java/org/achartengine/chartdemo/demo/chart/ProjectStatusChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395260103729" ignored="false" />
+    <file path="/ProjectStatusChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395260079637" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/src/main/java/org/achartengine/chartdemo/demo/chart/SalesBarChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395260111871" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/src/main/java/org/achartengine/chartdemo/demo/chart/SalesStackedBarChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395260117218" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/src/main/java/org/achartengine/chartdemo/demo/chart/TemperatureChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395260133934" ignored="false" />
+    <file path="/TemperatureChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395260125852" ignored="false" />
+    <file path="$USER_HOME$/Downloads/GraphAChartEngine/project.properties" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395309845101" ignored="false" />
+    <file path="$USER_HOME$/Downloads/achartengine-1/src/main/java/org/achartengine/chartdemo/demo/chart/BudgetPieChart.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395310482701" ignored="false" />
+    <file path="$PROJECT_DIR$/../androidplot/AndroidPlot-Core/src/test/java/com/androidplot/mock/MockContext.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395313965479" ignored="false" />
+    <file path="/HistoryArrayAdapter.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395334081507" ignored="false" />
+    <file path="/DepositoriesArrayAdapter.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1395334086189" ignored="false" />
+    <file path="/Login.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398689122869" ignored="false" />
+    <file path="$PROJECT_DIR$/../Pengeplan_/.idea/workspace.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398713835127" ignored="false" />
+    <file path="$PROJECT_DIR$/../Pengeplan_/res/values/strings.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398713899742" ignored="false" />
+    <file path="$PROJECT_DIR$/../Pengeplan_/AndroidManifest.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398713899742" ignored="false" />
+    <file path="$PROJECT_DIR$/../Pengeplan_/build.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398713904975" ignored="false" />
+    <file path="$PROJECT_DIR$/../Pengeplan_/src/com/example/Pengeplan_/MyActivity.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398713904976" ignored="false" />
+    <file path="$PROJECT_DIR$/../Pengeplan_/res/layout/main.xml" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398713904976" ignored="false" />
+    <file path="$PROJECT_DIR$/../Pengeplan_/gen/com/example/Pengeplan_/BuildConfig.java" changelist="012ad4da-c990-44e9-a65c-398e7a6c5060" time="1398713913513" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Overview.java" line="107" class="dk.eazyit.pengeplan.android.Pengeplan_Android.activity.Overview" package="dk.eazyit.pengeplan.android.Pengeplan_Android.activity">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Pengeplan_Android" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TransactionsArrayAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/TransactionsArrayAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="13" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PengeplanService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/PengeplanService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="109" column="26" selection-start="5257" selection-end="5257" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/DatabaseHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="50" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="57" selection-start="1257" selection-end="1257" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transactions.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Transactions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthResponse.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/dal/domain/AuthResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransactionService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/TransactionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PengeplanAdapter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/PengeplanAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="22" selection-start="680" selection-end="680" vertical-scroll-proportion="0.02293578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="37" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/LoginService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="49" selection-start="1303" selection-end="1303" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/pengeplan" />
+    <option name="KEY_ALIAS" value="pengeplan" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/HistoryArrayAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/DepositoriesArrayAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/login.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/co/senab/actionbarpulltorefresh/library/sdk/Compat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/co/senab/actionbarpulltorefresh/library/sdk/CompatV16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/co/senab/actionbarpulltorefresh/library/DefaultHeaderTransformer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/SecuritiesArrayAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/transaction_list_cell.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/PengeplanAdapter.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Overview.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/TransactionsArrayAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/overview.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/PengeplanService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Login.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Pengeplan_Android" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Pengeplan_Android" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="com.j256.ormlite:ormlite-android:4.48" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Pengeplan_Android" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="384" />
+    <option name="y" value="200" />
+    <option name="width" value="1152" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan_Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="ExportedApkPath" value="$PROJECT_DIR$/Pengeplan_Android.apk" />
+    <property name="ExportedModule" value="Pengeplan_Android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../androidplot" />
+    <property name="DEBUGGABLE_DEVICE" value="5B2E000200000001" />
+    <property name="DEBUGGABLE_PROCESS" value="dk.eazyit.pengeplan.android.Pengeplan_Android" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="MonoForAndroid_API_10" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.lastSelected" value="settings.xslt" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.49826187" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="5B2E000200000001" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/layout" />
+      <recent name="$PROJECT_DIR$/res/values" />
+      <recent name="$PROJECT_DIR$/res" />
+      <recent name="$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android" />
+      <recent name="$PROJECT_DIR$/libs" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dk.eazyit.pengeplan.android.Pengeplan_Android.activity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/res/values" />
+      <recent name="$PROJECT_DIR$/res" />
+      <recent name="$PROJECT_DIR$/../SmoothProgressBar/library/src/main/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.Pengeplan_Android">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pengeplan_Android" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="Pengeplan_Android" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="do_nothing" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="untitled" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="untitled" />
+      <option name="ACTIVITY_CLASS" value="com.example.untitled.MyActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DatabaseConfigUtil" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" />
+      <option name="MAIN_CLASS_NAME" value="dk.eazyit.pengeplan.android.Pengeplan_Android.service.DatabaseConfigUtil" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Pengeplan_Android" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.Pengeplan_Android" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.untitled" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DatabaseConfigUtil" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="012ad4da-c990-44e9-a65c-398e7a6c5060" name="Default" comment="" />
+      <created>1394729367750</created>
+      <updated>1394729367750</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1395153806273</created>
+      <updated>1395153806273</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added new address to pengeplan, changed api level. minor bug fixes">
+      <created>1396351337136</created>
+      <updated>1396351337137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="384" y="200" width="1152" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.04261954" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4107308" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32839963" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293247" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747456" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20971185" sideWeight="0.57539314" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3459223" sideWeight="0.67151767" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32870865" sideWeight="0.6629732" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21664888" sideWeight="0.6629732" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924226" sideWeight="0.60037005" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293247" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new address to pengeplan, changed api level. minor bug fixes" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="init" />
+    <MESSAGE value="Added new address to pengeplan, changed api level. minor bug fixes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Pengeplan_Android" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Pengeplan_Android" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/util/SecurePreferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="13" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/dal/domain/AuthResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/TransactionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="49" selection-start="1303" selection-end="1303" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/PengeplanService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="26" selection-start="5257" selection-end="5257" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/DatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="50" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$M2_REPO$/android/android/4.0.3/android-4.0.3.jar!/android/appwidget/AppWidgetHost.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="160" selection-end="160" vertical-scroll-proportion="0.12886597" />
+      </provider>
+    </entry>
+    <entry file="file:///Developer/adt-bundle/sdk/sources/android-15/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="630" column="13" selection-start="26829" selection-end="26829" vertical-scroll-proportion="-49.784874" />
+      </provider>
+    </entry>
+    <entry file="file:///Developer/adt-bundle/sdk/sources/android-15/android/location/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="13" selection-start="1069" selection-end="1069" vertical-scroll-proportion="-10.97479" />
+      </provider>
+    </entry>
+    <entry file="file:///Developer/adt-bundle/sdk/sources/android-15/android/accessibilityservice/AccessibilityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="345" column="46" selection-start="15327" selection-end="15327" vertical-scroll-proportion="8.092437" />
+      </provider>
+    </entry>
+    <entry file="jar:///Developer/adt-bundle/sdk/platforms/android-15/android.jar!/assets/images/android-logo-mask.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="37" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="57" selection-start="1257" selection-end="1257" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Transactions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/TransactionsArrayAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/PengeplanAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="22" selection-start="680" selection-end="680" vertical-scroll-proportion="0.02293578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49826187" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49826187" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jQuery-2.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49826187" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android - 15 - 4.0.3 - Java 1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49826187" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Pengeplan_Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49826187" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: android:android:4.0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49826187" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

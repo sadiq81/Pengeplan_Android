@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="dk.eazyit.pengeplan.android.Pengeplan_Android"
+          android:versionCode="1"
+          android:versionName="Prototype 1.0">
+    <uses-sdk android:minSdkVersion="15"/>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <application android:label="@string/app_name" android:icon="@drawable/icon" android:debuggable="false">
+
+        <activity android:name=".activity.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".activity.Login"
+                  android:label="@string/login">
+        </activity>
+
+        <activity android:name=".activity.Overview"
+                  android:label="@string/overview">
+        </activity>
+
+        <activity android:name=".activity.Transactions">
+        </activity>
+
+        <receiver android:name=".service.PengeplanService">
+            <intent-filter>
+                <action android:name="updateTransactions"/>
+                <action android:name="loginAttempt"/>
+            </intent-filter>
+        </receiver>
+
+        <receiver android:name=".service.LoginService">
+            <intent-filter>
+                <action android:name="loginAttemptCompleted"/>
+                <action android:name="clearLogin"/>
+                <action android:name="testForPersistentLogin"/>
+            </intent-filter>
+        </receiver>
+
+    </application>
+</manifest>

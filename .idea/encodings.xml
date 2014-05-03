@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/res" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Overview.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/PengeplanActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Splash.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/dal/domain/AuthResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/dal/domain/Constants.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/dal/domain/Transaction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/LoginService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/PengeplanService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/util/SecurePreferences.java" charset="UTF-8" />
+  </component>
+</project>
+

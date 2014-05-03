@@ -1,0 +1,47 @@
+#
+# generated on 2014/03/17 11:35:27
+#
+# --table-start--
+dataClass=dk.eazyit.pengeplan.android.Pengeplan_Android.dal.domain.Transaction
+tableName=transaction
+# --table-fields-start--
+# --field-start--
+fieldName=id
+id=true
+# --field-end--
+# --field-start--
+fieldName=transactionType
+# --field-end--
+# --field-start--
+fieldName=date
+# --field-end--
+# --field-start--
+fieldName=paperName
+# --field-end--
+# --field-start--
+fieldName=stockExchange
+# --field-end--
+# --field-start--
+fieldName=currency
+# --field-end--
+# --field-start--
+fieldName=numberOfItems
+# --field-end--
+# --field-start--
+fieldName=valuation
+# --field-end--
+# --field-start--
+fieldName=amount
+# --field-end--
+# --field-start--
+fieldName=legalEntity
+# --field-end--
+# --field-start--
+fieldName=ownedAccount
+# --field-end--
+# --field-start--
+fieldName=localAmount
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

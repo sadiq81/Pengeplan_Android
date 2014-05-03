@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengeplan Android</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember login?</string>
+    <string name="pin">Pin</string>
+    <string name="login">Login</string>
+    <string name="overview">Overview</string>
+
+
+    <string name="securities">Securities</string>
+    <string name="depositories">Depositories</string>
+    <string name="history">History</string>
+
+
+    <string name="open_helper_classname">dk.eazyit.pengeplan.android.Pengeplan_Android.service.DatabaseHelper</string>
+
+
+</resources>
